@@ -557,6 +557,7 @@ PRODUCT_PACKAGES += \
     libcdsp_default_listener \
     libcdsprpc \
     libconfigdb \
+    libcpion \
     libcvp2_1 \
     libcvp_common \
     libdiag \
@@ -866,7 +867,6 @@ PRODUCT_PACKAGES += \
     libcneoplookup \
     libcneqmiutils \
     libcom.qti.chinodeutils \
-    libcpion \
     libcvp_util \
     libcvpcpuRev_skel \
     libdataitems \
