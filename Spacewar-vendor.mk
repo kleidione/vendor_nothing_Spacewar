@@ -412,7 +412,6 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/Spacewar/proprietary/vendor/etc/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_platform_info.xml \
     vendor/nothing/Spacewar/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/nothing/Spacewar/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
-    vendor/nothing/Spacewar/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/nothing/Spacewar/proprietary/vendor/etc/thermal.benchmark.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal.benchmark.conf \
     vendor/nothing/Spacewar/proprietary/vendor/etc/thermal.high.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal.high.conf \
     vendor/nothing/Spacewar/proprietary/vendor/etc/thermal.high.level1.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal.high.level1.conf \
